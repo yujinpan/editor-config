@@ -4,21 +4,18 @@
     <property name="created">2019-05-22T11:26:37</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-22T11:45:26</property>
+    <property name="modified">2019-05-22T15:01:57</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Monaco" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Ayuthaya" />
   <attributes>
     <option name="TEXT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
     </option>
   </attributes>
 </scheme>

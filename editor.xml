@@ -3,4 +3,7 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
+  <component name="XmlEditorOptions">
+    <option name="selectWholeCssIdentifierOnDoubleClick" value="false" />
+  </component>
 </application>

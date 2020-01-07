@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="JavaScript">
+        <added pattern="GISConfig._formatConfig(serviceCode,serviceCodeLayer,response)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

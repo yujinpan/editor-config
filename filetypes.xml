@@ -1,13 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="draw-interaction" type="JavaScript" />
       <mapping pattern="dashboard" type="JavaScript" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="draw-interaction" type="JavaScript" />
       <mapping ext="yml" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="buffer-analysis.js" approved="true" type="PLAIN_TEXT" />

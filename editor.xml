@@ -3,6 +3,10 @@
     <option name="JAVADOC_INFO_DELAY" value="300" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="12" />
+    <option name="FONT_FAMILY" value="Roboto Mono" />
+  </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="SHOW_BREADCRUMBS" value="false" />

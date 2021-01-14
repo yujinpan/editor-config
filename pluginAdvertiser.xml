@@ -415,6 +415,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.js.map">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScriptDebugger" />
+              <option name="myPluginName" value="JavaScript Debugger" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.js2">
           <value>
             <plugin>

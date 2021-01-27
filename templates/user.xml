@@ -32,7 +32,7 @@
       <option name="VUE_TEMPLATE" value="true" />
     </context>
   </template>
-  <template name="vconfirm" value="this.$confirm('确认删除吗？', '操作提示').then(() =&gt; {&#10;  this.loading = true;&#10;  $METHOD$()&#10;    .then(() =&gt; {&#10;      this.$message.success('删除成功');&#10;      this.$refs.CMList.getList(1);&#10;    })&#10;    .finally(() =&gt; (this.loading = false));&#10;});" toReformat="false" toShortenFQNames="true">
+  <template name="vconfirm" value="this.$confirm('确认删除吗？', '操作提示').then(() =&gt; {&#10;  this.loading = true;&#10;  $METHOD$()&#10;    .then(() =&gt; {&#10;      this.$message.success('删除成功');&#10;      this.$refs.CMList.getList(1);&#10;    })&#10;    .finally(() =&gt; (this.loading = false));&#10;});" description="" toReformat="false" toShortenFQNames="true">
     <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
